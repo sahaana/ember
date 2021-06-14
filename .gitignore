@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+*.pyc
+*.npy
+*.pkl
+.DS_Store
+runs/*
+wandb/*
+data/*/models/*
